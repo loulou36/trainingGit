@@ -1,1 +1,1 @@
-pre-rebase.sample echo pre-rebase.sample
+post-update.sample echo post-update.sample
