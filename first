@@ -1,1 +1,1 @@
-.dbus echo .dbus
+session-bus echo session-bus
