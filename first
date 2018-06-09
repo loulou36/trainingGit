@@ -1,1 +1,1 @@
-hooks echo hooks
+pre-rebase.sample echo pre-rebase.sample
