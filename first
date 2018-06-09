@@ -1,1 +1,1 @@
-org.eclipse.ltk.ui.refactoring echo org.eclipse.ltk.ui.refactoring
+org.eclipse.buildship.core echo org.eclipse.buildship.core
