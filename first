@@ -1,1 +1,1 @@
-IdIndex.storage.values.at echo IdIndex.storage.values.at
+IdIndex.storage.len echo IdIndex.storage.len
