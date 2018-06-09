@@ -1,1 +1,1 @@
-.taskListIndex echo .taskListIndex
+write.lock echo write.lock
