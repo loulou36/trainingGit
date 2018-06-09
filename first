@@ -1,1 +1,1 @@
-Stubs.storage_i.len echo Stubs.storage_i.len
+Stubs.storage.values.at echo Stubs.storage.values.at
