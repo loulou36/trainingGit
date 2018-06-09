@@ -1,1 +1,1 @@
-groovy.trait.fields_inputs echo groovy.trait.fields_inputs
+groovy.trait.fields_inputs.values.at echo groovy.trait.fields_inputs.values.at
