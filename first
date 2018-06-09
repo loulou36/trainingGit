@@ -1,1 +1,1 @@
-post-update.sample echo post-update.sample
+pre-applypatch.sample echo pre-applypatch.sample
