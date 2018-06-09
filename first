@@ -1,1 +1,1 @@
-http-cache.lucene60 echo http-cache.lucene60
+write.lock echo write.lock
