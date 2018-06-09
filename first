@@ -1,1 +1,1 @@
-pre-applypatch.sample echo pre-applypatch.sample
+prepare-commit-msg.sample echo prepare-commit-msg.sample
