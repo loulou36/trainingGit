@@ -1,1 +1,1 @@
-pre-push.sample echo pre-push.sample
+pre-commit.sample echo pre-commit.sample
