@@ -1,1 +1,1 @@
-workspace.setup echo workspace.setup
+org.eclipse.ltk.core.refactoring echo org.eclipse.ltk.core.refactoring
