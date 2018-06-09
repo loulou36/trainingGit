@@ -1,1 +1,1 @@
-bytecodeAnalysis.storage_i.len echo bytecodeAnalysis.storage_i.len
+bytecodeAnalysis.storage.len echo bytecodeAnalysis.storage.len
