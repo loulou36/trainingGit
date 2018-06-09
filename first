@@ -1,1 +1,1 @@
-logs echo logs
+bytecoind-verbose.log echo bytecoind-verbose.log
