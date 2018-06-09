@@ -1,1 +1,1 @@
-.plugins echo .plugins
+org.eclipse.jdt.core echo org.eclipse.jdt.core
