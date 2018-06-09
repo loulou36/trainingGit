@@ -1,1 +1,1 @@
-packed-refs echo packed-refs
+HEAD echo HEAD
