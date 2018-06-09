@@ -1,1 +1,1 @@
-applypatch-msg.sample echo applypatch-msg.sample
+commit-msg.sample echo commit-msg.sample
