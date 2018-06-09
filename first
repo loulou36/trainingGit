@@ -1,1 +1,1 @@
-TodoIndex.storage echo TodoIndex.storage
+TodoIndex.storage.len echo TodoIndex.storage.len
