@@ -1,1 +1,1 @@
-prepare-commit-msg.sample echo prepare-commit-msg.sample
+pre-push.sample echo pre-push.sample
