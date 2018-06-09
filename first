@@ -1,1 +1,1 @@
-login.keyring echo login.keyring
+user.keystore echo user.keystore
